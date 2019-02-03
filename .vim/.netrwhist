@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/vroch/.ssh'
+let g:netrw_dirhist_2='/home/vroch/.vim'
+let g:netrw_dirhist_3='/mnt/c/Users/Vincent/Desktop/2B/CS247/CS247-P1/test'
+let g:netrw_dirhist_4='/mnt/c/Users/Vincent/Desktop/3A/CS341/a1'
+let g:netrw_dirhist_5='/etc/ssh'
+let g:netrw_dirhist_6='/etc/default/grub.d'
